@@ -1,3 +1,11 @@
+# Using TMDB API
+
+# Preview Images 
+
+[![Untitled.png](https://i.postimg.cc/mk9R1zSm/Untitled.png)](https://postimg.cc/tn98Lgw6)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
